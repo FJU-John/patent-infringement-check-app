@@ -1,29 +1,11 @@
-# patent-infringement-check-app
+### patent-infringement-check-api
 
-This template should help get you started developing with Vue 3 in Vite.
+1. **AWS App service URL**:
+   - http://57.180.31.117/
 
-## Recommended IDE Setup
+2. **Features**:
+   - Call http://54.250.5.70:8181/patent/infringement with patentId and companyName to get patent infringement check result.
+   - Show results as a table.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+3. **Framework**:
+   - Vue 3
