@@ -1,4 +1,4 @@
-### patent-infringement-check-api
+### patent-infringement-check-app
 
 1. **AWS App service URL**:
    - http://57.180.31.117/
