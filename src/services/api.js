@@ -1,6 +1,6 @@
 export const checkInfringement = async (patentId, companyName) => {
   try {
-    const apiUrl = 'http://54.250.5.70:8181/patent/infringement';
+    const apiUrl = 'http://3.92.174.25:8181/patent/infringement';
     
     const params = new URLSearchParams({
       patentId,
